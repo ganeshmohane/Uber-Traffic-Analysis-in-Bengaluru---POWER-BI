@@ -1,6 +1,6 @@
 # Uber Traffic Analysis in Bengaluru
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -37,7 +37,7 @@ The final output of this project is an interactive Power BI dashboard that prese
 - Filters to view data for specific time periods or locations
 - Interactive elements to explore the data in detail
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Conclusion
 The analysis of Uber traffic data in Bengaluru provided valuable insights into the city's traffic patterns. This information can be used to improve traffic management and enhance the user experience for Uber riders.
@@ -47,6 +47,6 @@ I would like to thank the YBI Foundation for the opportunity to work on this pro
 
 ## Contact
 For any questions or further information, please contact me at:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: mailto:ganeshmohane5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ganeshmohane
 
